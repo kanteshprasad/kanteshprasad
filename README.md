@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @kanteshprasad
+- 👀 
+- A Frontend Web Developer
+- 
+- 🌱 Education
+- Student@ Bachelors of computer aplications from IGNOU (Distance Learning)
+- 
+- 💞️ 
+-  Open for both internships and work opportunities
+-  
+- 📫 
+- you can mail me at hk.kanteshprasad@gmail.com
+

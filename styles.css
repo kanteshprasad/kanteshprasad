@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  padding: 0;
+  background-color: black;
+  background-attachment: fixed;
+}
+
+body::-webkit-scrollbar {
+  display: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+/* navbar  */
+.navbar {
+  margin-top: 0px;
+  margin-left: 0;
+  width: 100vw;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.navbar > ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 15px;
+  margin-right: 2vw;
+}
+
+.fa-house {
+  height: max-content;
+  width: auto;
+  margin-left: 3vw;
+}
+
+.nav-link {
+  color: rgb(255, 255, 255);
+  text-transform: uppercase;
+  letter-spacing: 0.75px;
+  font-family: "Roboto Slab", serif;
+  font-size: large;
+}
+
+.nav-link:hover {
+  color: rgb(0, 217, 255);
+}
+
+.fa-house {
+  color: white;
+}
+
+.fa-house:hover {
+  color: rgb(0, 180, 190);
+}
+
+/* footer  */
+
+
+.footer {
+  margin-top: 20vh;
+  padding-top: 10px;
+  display: flex;
+  bottom: 0px;
+  flex-direction: row;
+  justify-content: center;
+  justify-items: center;
+  gap: 1em;
+  color: white;
+  background-color: black;
+}
+
+.footer > p {
+  font-family: "Lato", sans-serif;
+}
+
+.footer > h6 {
+  font-family: "Lato", sans-serif;
+}

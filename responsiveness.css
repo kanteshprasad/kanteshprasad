@@ -1,0 +1,28 @@
+/* mobile  view */
+
+@media (max-width: 767px) {
+  .flex-container {
+    flex-direction: column;
+    width: 100vw;
+  }
+
+  .profile-pic {
+    height: 30vh;
+    width: 50v;
+  }
+
+  .myname {
+    width: 90vw;
+    height: max-content;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .myname p span {
+    font-size: 30px;
+  }
+}
+
+/* tablet view  */
+@media (min-width: 768px) and (max-width: 991px) {
+}

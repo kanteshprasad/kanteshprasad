@@ -6,10 +6,8 @@
 - -
 - Love to play with CSS positioning
 - -
-- Learning React
-- -
-- Want to be Full Stack Web Developer
-- 
+- Expert in React.js
+-  
 - 🌱 Education
 - Student@ Bachelors of computer aplications from IGNOU (Distance Learning)
 - 

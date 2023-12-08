@@ -21,6 +21,11 @@
   .myname p span {
     font-size: 30px;
   }
+  .projectsContainer{
+    width: 90vw;
+    margin-left: 5%;
+    margin-right: 5%;
+  }
 }
 
 /* tablet view  */

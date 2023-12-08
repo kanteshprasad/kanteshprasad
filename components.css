@@ -103,6 +103,35 @@ display: inline;
   margin-left: 5vw;
 }
 
+.projects{
+  display: flex;
+  margin-top: 10vh;
+  color: rgb(0, 180, 190);
+  justify-content: center;
+  align-items: center;
+  width: 90vw;
+  margin-left: 5vw;
+  margin-bottom: 50px;
+}
 
+.projectsContainer{
+  display: flex;
+  flex-direction: column;
+  width: 70vw;
+  justify-content: center;
+  align-items: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
 
+.projectsContainer > div > p , h3 , ul , li {
+  color: white;
+  font-family: 'Prompt', sans-serif;
+}
 
+.projectsContainer > div {
+  display: flex;
+  flex-direction: column;
+  height: max-content;
+  align-items: center;
+}

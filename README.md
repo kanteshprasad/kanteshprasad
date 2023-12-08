@@ -16,4 +16,8 @@
 -  
 - 📫 
 - you can mail me at hk.kanteshprasad@gmail.com
+- my websites
+- https://kanteshprasad.github.io/kanteshprasad/
+- https://www.shopitt.in/
+- https://kanteshprasad.github.io/amazon-clone/
 
